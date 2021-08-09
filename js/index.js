@@ -43,4 +43,4 @@ else if (hacker1<hacker2) {
 }
 else {
     console.log(`What?! You both have the same name?`);
-}
+} 
